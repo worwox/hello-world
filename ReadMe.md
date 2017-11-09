@@ -5,7 +5,7 @@ A simple plugin to show the basics of WordPress Plugin.
 ## → What can Hello World do?
 This plugin adds `Hello World` string to the head of every admin page.
 
-[alt text](https://i.imgur.com/l95o3Z2.jpg "Hello World")
+![alt text](https://i.imgur.com/l95o3Z2.jpg "Hello World")
 
 ## ⚙️ How to Install?
 - Download the plugin by [clicking here](https://github.com/asharirfan/hello-world/archive/master.zip).
